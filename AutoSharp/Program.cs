@@ -15,6 +15,7 @@ using Color = System.Drawing.Color;
 using AutoSharp.Properties;
 using PortAIO.Utility;
 using LeagueSharp.Common;
+using EloBuddy.SDK.Notifications;
 // ReSharper disable ObjectCreationAsStatement
 
 namespace AutoSharp
